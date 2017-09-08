@@ -11,7 +11,7 @@ public class HelloWorld {
 
 	public static void main( String[] args ){
 	
-		System.out.println("Isaac Askey");
+		System.out.println("Isaac Askey and Tyler Paul");
 	
 	}
 }
